@@ -1,4 +1,0 @@
-# ks rocks
-
-Karim rocks!
-
