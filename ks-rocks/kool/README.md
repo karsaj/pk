@@ -46,37 +46,37 @@ Designed, deployed, and managed a secure network solution with Windows Small Bus
 
 * Carreg Solutions/Aon Intelligence Unit
 
-####  Technical Writer/Business Analyst \(09/2005 – 07/2006 Contract\)
+#### Technical Writer/Business Analyst \(09/2005 – 07/2006 Contract\)
 
 Business and technical analyst and author of processes, specifications and user material for web-enabled \(ASP/MS SQL Server\) applications for resource, merchandising, and communications management frameworks. Used MS Visio to develop and deliver application user interfaces.
 
 * Resolve Corporation
 
-####  Proposal Writer \(04/2005 – 07/2005 Contract\)
+#### Proposal Writer \(04/2005 – 07/2005 Contract\)
 
 Authored Enabling Technology, Information Management and Evergreen Plans for confidential \(pre-RFP, post RFI\) processes and applications. Researched numerous COTS including Cisco IPCC, and MS MOM.
 
 * Marketrend Communications
 
-####  Systems Information Developer \(11/2003 – 01/2004 Contract\)
+#### Systems Information Developer \(11/2003 – 01/2004 Contract\)
 
 Worked with process flowcharts and business analysts to deliver systems re-engineering documentation for seven Delano e-business application modules and the Automotive Business Intelligence Engine in 2 months.
 
 * DataMirror Corporation
 
-####  Senior Technical Writer \(07/2002 – 03/2003 Contract\)
+#### Senior Technical Writer \(07/2002 – 03/2003 Contract\)
 
 Lead writer for DB/XML Transform and Transformation Server for Oracle, and associate writer for Constellar Hub data transformation, integration, and replication systems. Configured and tested features on UNIX and Windows platforms, and wrote tutorials, context-sensitive help and installation manuals.
 
 * Government of Ontario, Ministry of Consumer and Business Services
 
-####  Technical Editor \(02/2002 – 06/2002 Contract\)
+#### Technical Editor \(02/2002 – 06/2002 Contract\)
 
 Used Rational Unified Process \(RUP\) to deliver a portal of programming, operational, maintenance, and training guides for three J2EE and XML/Java/EJB/JSP/Jakarta Struts projects \(Common Components, e-Forms, and Enhanced Business Name Search\) using IBM WebSphere, DataMirror and Delano Servers.
 
 * IBM Canada Ltd.
 
-####  Senior Information Developer \(05/2001 – 01/2002 Contract\)
+#### Senior Information Developer \(05/2001 – 01/2002 Contract\)
 
 Project lead for XL FORTRAN compiler documentation sets using DITA for AIX and Linux platforms:
 
