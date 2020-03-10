@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [ks rocks](ks-rocks/README.md)
-  * [Kool](ks-rocks/kool.md)
+  * [cv](ks-rocks/kool.md)
 
